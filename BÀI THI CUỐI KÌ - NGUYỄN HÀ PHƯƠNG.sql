@@ -1,0 +1,1 @@
+SELECT * FROM quanlycauthu.penelty;
